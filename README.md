@@ -16,5 +16,4 @@ Here are some ideas to get you started: !-->
 <a href="https://github.com/aadil494" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadil494&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-291%20Thousand%20lines%20of%20code-blue)
 
