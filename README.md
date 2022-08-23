@@ -17,4 +17,7 @@ Here are some ideas to get you started: !-->
 <a href="https://github.com/aadil494" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadil494&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
+<a href="https://github.com/aadil494/github-readme-activity-graph"><img alt="Aaadil Matloob Jan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aadil494&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
 
