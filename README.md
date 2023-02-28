@@ -1,4 +1,3 @@
-![Hi](deadpool-wave.gif)
 ### Hi there 👋
 
 <!--
